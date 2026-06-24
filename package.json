@@ -1,0 +1,9 @@
+{
+  "name": "monad-state-db-benchmarker",
+  "version": "1.0.0",
+  "description": "I/O profiling and storage access latency benchmarker for MonadDB",
+  "main": "runIoBenchmark.js",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
